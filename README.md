@@ -9,7 +9,30 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
 <body>
 
-<!-- Content will go here -->
+<html>
+<head>
+<style>
+body {
+    background-color: beige;
+}
+
+h1 {
+    background-color: white;
+}
+
+p {
+    background-color: ;
+}
+</style>
+</head>
+<body>
+
+<h1>Amazon.com</h1>
+<p>This heading is for display purposes only.</p>
+
+</body>
+</html>
+
 
 </body>
 </html>
